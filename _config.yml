@@ -1,7 +1,7 @@
 name: JoanaBlass
 favicon: null
 layout_spectrum: 0.00951
-typography_spectrum: 0.9916230007074773
+typography_spectrum: 0.25899
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#c2c6c7'
     - '#fbe1bc'
     - '#ffbf84'
-  brandStrength: 0.107395030092448
+  brandStrength: 0.5
   lightness: 0.6387657239101827
   saturation: 0.1540574859827757
   rhythmicContrast: 0.18372012372128665
